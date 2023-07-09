@@ -1,7 +1,7 @@
-//v0.1
+//v0.2
 
 int main(void)
 {
-    int a = 0;
+    int a = 32;
     return 0;
 }
