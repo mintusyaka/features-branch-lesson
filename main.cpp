@@ -8,5 +8,8 @@ int main(void)
     int a = 321;
     std::cout << feat(2);
     std::cout << a;
+    
+    int b = 0;
+
     return 0;
 }
